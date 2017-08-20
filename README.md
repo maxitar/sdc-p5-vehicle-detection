@@ -3,6 +3,7 @@ Vehicle detection using SVM and sliding windows
 
 * pipeline.py - main program logic
 * helper_functions.py - auxiliary functions
+* svm.p - pickled svm, scaler and hog parameters
 * video_output.mp4 - video demonstrating detection
 * video_output_debug.mp4 - same video as before, but in debug mode
 * writeup.md - report on the project
